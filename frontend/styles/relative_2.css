@@ -1,0 +1,38 @@
+body {
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+    }
+.block {
+    position: relative;
+    width: 1300px;
+    height: 1300px; ;
+    border: none;
+
+
+    padding: 10px;
+    margin: 10px auto ;
+    
+    background-color: darkseagreen;
+}
+.block__elem__left {
+    position: relative;
+    top: 100px;
+    left: 100px;
+    width: 250px;
+    height: 250px;
+
+    border: 2px solid #ffff;
+    background-color: #ffff;
+}
+.block__elem__right {
+    position: relative;
+    top: 700px;
+    left: 950px;
+    width: 250px;
+    height: 250px;
+
+    border: 2px solid #ffff;
+    background-color: #ffff;
+}

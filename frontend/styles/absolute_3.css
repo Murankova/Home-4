@@ -1,0 +1,32 @@
+.block3__elem1 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 5px solid red;
+
+}
+.block3__elem2 {
+    position: absolute;
+    top: 111px;
+    left: 109px;
+
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 5px solid blue
+
+}
+
+.block3__elem3 {
+    position: absolute;
+    top: 178px;
+    left: 172px;
+
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: 5px solid green;

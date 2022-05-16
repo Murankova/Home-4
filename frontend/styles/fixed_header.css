@@ -1,0 +1,42 @@
+*,
+body {
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+    }
+
+.Header {
+    padding: 10px;
+    background-color: coral;
+    position: fixed;
+   width: 1600px;
+   height: 80px;
+      }
+.container {
+        max-width: 1024px;
+        margin: 0 auto;
+    }
+
+.Header__text {
+    background-color: coral;
+    
+    border: 3px solid coral;
+    text-align: center;
+}
+
+.Header__text__1 {
+    display: inline-block;
+    padding: 13px;
+
+}
+h4 {
+        color: #ffff;
+        font-size: 30px;
+}
+
+.par {
+    border: 2px solid coral;
+    text-align: justify;
+    padding: 20px;
+}
